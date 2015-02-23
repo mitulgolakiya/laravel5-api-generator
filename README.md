@@ -1,6 +1,6 @@
 # Laravel5 API Generator
 
-I am fan of creating APIs. Laravel provides really a good and handy commands to setup your all required files like Controller, Model, Migration etc.
+I am fan of creating APIs. Laravel provides really good and handy commands to setup your all required files like Controller, Model, Migration etc.
 
 But you need to generate it step by step. so it was little bit time consuming for me to create those all things to setup basic CRUD api for one module and repeat the same steps again for the new model.
 
