@@ -131,7 +131,7 @@ class APIGeneratorCommand extends Command
 
 			$fields[] = $field;
 
-			if(!$this->confirm("Do you wish to add more fields ? [Y|n]", true))
+			if(!$this->confirm("Do you want to add more fields ? [Y|n]", true))
 				break;
 		}
 
