@@ -1,4 +1,4 @@
-Laravel5 API Generator
+Laravel 5 API Generator
 =======================
 
 I am fan of creating APIs. Laravel provides really good and handy commands to setup your all required files like Controller, Model, Migration etc.
