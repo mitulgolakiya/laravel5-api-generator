@@ -35,7 +35,7 @@ Steps to Get Started
  
 4. Enter the fields with options
 
-5. You are ready to go.
+5. And You are ready to go. :)
 
 
 Screen shots
@@ -93,13 +93,13 @@ Config file (```config/generator.php```) contains path for all generated files
  * text
  * timestamp
  * datetime
- * defaultTimestamps
+ * Default Timestamps (```created_at``` & ```updated_at```)
  
-If you need to add more types, skip the migration at last and add fields to your migration file manually then run migration command. 
+If you want to add more types, skip the migration at last and add fields to your migration file manually, and then run migration command. 
 
 ### Response Structure
  
-<p style="color:red">Remember: This response structure is based on the most of my API response structure, you can change it to your API response after file generation in controller.</p>
+**Remember: This response structure is based on the most of my API response structure, you can change it to your API response after file generation in controller.**
  
 **Success**
 
