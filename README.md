@@ -99,7 +99,7 @@ If you need to add more types, skip the migration at last and add fields to your
 
 ### Response Structure
  
- Remember: This response structure is based on the most of my API response structure, you can change it to your API response after file generation in controller.
+<p style="color:red">Remember: This response structure is based on the most of my API response structure, you can change it to your API response after file generation in controller.</p>
  
 **Success**
 
