@@ -30,8 +30,8 @@ Steps to Get Started
 3. Fire the artisan command.<br>
     ```php artisan mitul.generator:api ModelName```<br>
     e.g.<br>
-        ```php artisan mitul.generator.api Project```<br>
-        ```php artisan mitul.generator.api Post```<br>
+        ```php artisan mitul.generator:api Project```<br>
+        ```php artisan mitul.generator:api Post```<br>
  
 4. Enter the fields with options
 
