@@ -146,7 +146,7 @@ return [
 		'App\Providers\RouteServiceProvider',
 
 		'Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider',
-		'App\Libraries\Mitul\Generators\APIGeneratorServiceProvider'
+		'Mitul\APIGenerator\APIGeneratorServiceProvider'
 	],
 
 	/*
